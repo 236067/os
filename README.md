@@ -13,4 +13,5 @@
 ![image](https://user-images.githubusercontent.com/96447102/191107131-8560f03a-b00f-4c45-98e2-258a9897a3f1.png)
 ![image](https://user-images.githubusercontent.com/96447102/191107465-1aa510cd-7eda-422c-b7f9-f89d1f215752.png)
 ![image](https://user-images.githubusercontent.com/96447102/191107891-50f04a82-28b4-42b5-b6bd-25b01a9f8238.png)
-
+![image](https://user-images.githubusercontent.com/96447102/191108492-c7302c8c-0af5-428f-8361-b8b9c97f773f.png)
+这里的“同时”微观是“可能”交替的，比如游戏音乐可以和其他音乐播放器一起使用，这里的“同时”在微观和宏观都是同时进行的。
